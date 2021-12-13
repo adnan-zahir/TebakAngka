@@ -1,0 +1,15 @@
+/home/movaa/coding/cs/TebakAngka/bin/Debug/net6.0/TebakAngka
+/home/movaa/coding/cs/TebakAngka/bin/Debug/net6.0/TebakAngka.deps.json
+/home/movaa/coding/cs/TebakAngka/bin/Debug/net6.0/TebakAngka.runtimeconfig.json
+/home/movaa/coding/cs/TebakAngka/bin/Debug/net6.0/TebakAngka.dll
+/home/movaa/coding/cs/TebakAngka/bin/Debug/net6.0/ref/TebakAngka.dll
+/home/movaa/coding/cs/TebakAngka/bin/Debug/net6.0/TebakAngka.pdb
+/home/movaa/coding/cs/TebakAngka/obj/Debug/net6.0/TebakAngka.csproj.AssemblyReference.cache
+/home/movaa/coding/cs/TebakAngka/obj/Debug/net6.0/TebakAngka.GeneratedMSBuildEditorConfig.editorconfig
+/home/movaa/coding/cs/TebakAngka/obj/Debug/net6.0/TebakAngka.AssemblyInfoInputs.cache
+/home/movaa/coding/cs/TebakAngka/obj/Debug/net6.0/TebakAngka.AssemblyInfo.cs
+/home/movaa/coding/cs/TebakAngka/obj/Debug/net6.0/TebakAngka.csproj.CoreCompileInputs.cache
+/home/movaa/coding/cs/TebakAngka/obj/Debug/net6.0/TebakAngka.dll
+/home/movaa/coding/cs/TebakAngka/obj/Debug/net6.0/ref/TebakAngka.dll
+/home/movaa/coding/cs/TebakAngka/obj/Debug/net6.0/TebakAngka.pdb
+/home/movaa/coding/cs/TebakAngka/obj/Debug/net6.0/TebakAngka.genruntimeconfig.cache
